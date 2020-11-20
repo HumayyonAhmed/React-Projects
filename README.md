@@ -12,10 +12,14 @@ This Repo Contains all the React Projects of React Bootcamp 2020.
 **Demo**: https://shoestore-humayyonahmed.netlify.app/  
 **Github**: Link Here  
 **Things Learned:** React Router v6
+## Project 4: Quiz App
+**Demo**: https://quizapp-humayyonahmed.netlify.app/  
+**Github**: Link Here  
+**Things Learned:** TypeScript
 
 
-# Additional Projects
+## Additional Projects
 I made these projects to further practice the React Concepts
-## Weather App
+### Weather App
 **Demo**: https://weatherapp-humayyonahmed.netlify.app/  
 **Github**: Link Here  
